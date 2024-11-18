@@ -1,8 +1,10 @@
 # Developer Notes
 
-[![Java CI with Gradle](https://github.com/psytraxx/ReactiveSpringBootChat/actions/workflows/gradle.yml/badge.svg)](https://github.com/psytraxx/ReactiveSpringBootChat/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/Sondro/ReactiveSpringBootChat/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/Sondro/ReactiveSpringBootChat/actions/workflows/maven-publish.yml)
 
-[![NodeJS with Grunt](https://github.com/psytraxx/ReactiveSpringBootChat/actions/workflows/npm-grunt.yml/badge.svg)](https://github.com/psytraxx/ReactiveSpringBootChat/actions/workflows/npm-grunt.yml)
+[![Java CI with Gradle](https://github.com/Sondro/ReactiveSpringBootChat/actions/workflows/gradle.yml/badge.svg)](https://github.com/Sondro/ReactiveSpringBootChat/actions/workflows/gradle.yml)
+
+[![NodeJS with Grunt](https://github.com/Sondro/ReactiveSpringBootChat/actions/workflows/npm-grunt.yml/badge.svg)](https://github.com/Sondro/ReactiveSpringBootChat/actions/workflows/npm-grunt.yml)
 
 ## About the solution
 
